@@ -1,4 +1,4 @@
-## Algorithms Used 🚀
+## Algorithms Used 
 
 This project compares the performance of the following machine learning algorithms for stroke prediction:
 
