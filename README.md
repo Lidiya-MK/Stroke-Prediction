@@ -17,4 +17,4 @@ This project compares the performance of the following machine learning algorith
 5. **Gradient Boosting (XGBoost) 🚀**  
    A robust ensemble technique that builds models sequentially to correct errors made by prior models, providing state-of-the-art performance.
 
-Each algorithm was evaluated based on accuracy, precision, recall, and F1-score.
+Each algorithm was evaluated based on accuracy, precision, recall, and F1-score
