@@ -6,7 +6,7 @@ This project compares the performance of the following machine learning algorith
    A statistical method used for binary classification, ideal for understanding the relationship between input variables and the likelihood of stroke.
 
 2. **Decision Tree 🌳**  
-   A tree-structured model that splits data into branches based on decision rules, offering an intuitive and interpretable prediction method.
+   A tree-structured model that splits data into branches based on decision rules, offering an intuitive and interpretable prediction method. 
 
 3. **Random Forest 🌲**  
    An ensemble learning method combining multiple decision trees to improve accuracy and reduce overfitting.
