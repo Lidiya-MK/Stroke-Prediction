@@ -12,15 +12,12 @@
   
 
 4. **Support Vector Machine (SVM) 📏**  
-   
-
-5. **Gradient Boosting (XGBoost) 🚀**  
 
 
-6. **Gaussian Discriminant Analysis(GDA) 📈**  
+5. **Gaussian Discriminant Analysis(GDA) 📈**  
   
 
-7. **Naive Bayes 🙈**  
+6. **Naive Bayes 🙈**  
    
 
 
